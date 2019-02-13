@@ -1,0 +1,55 @@
+
+
+# Language for theme localization
+language: en
+
+# Text direction (can be ltr or rtl), default: ltr
+direction:
+
+# Feature flags for functionality that alters behavior significantly, and thus
+# may be a matter of taste
+feature:
+
+  # Another layer on top of the main navigation for larger screens in the form
+  # of tabs, especially useful for larger documentation projects
+  tabs: false
+
+# Sets the primary and accent color palettes as defined in the Material Design
+# documentation - possible values can be looked up in the getting started guide
+palette:
+
+  # Primary color used for header, sidebar and links, default: indigo
+  primary:
+
+  # Accent color for highlighting user interaction, default: indigo
+  accent:
+
+# Fonts used by Material, automatically loaded from Google Fonts - see the site
+# for a list of available fonts
+font:
+
+  # Default font for text
+  text: Roboto
+
+  # Fixed-width font for code listings
+  code: Roboto Mono
+
+# Favicon to be rendered
+favicon: assets/images/favicon.png
+
+# The logo of the documentation shown in the header and navigation can either
+# be a Material Icon ligature (see https://material.io/icons/) or an image URL
+logo:
+  icon: "\uE80C"
+
+# Material includes the search in the header as a partial, not as a separate
+# template, so it's correct that search.html is missing
+include_search_page: false
+
+# Material doesn't use MkDocs search functionality but provides its own. For
+# this reason, only the search index needs to be built
+search_index_only: true
+
+# Static pages to build
+static_templates:
+  - 404.html

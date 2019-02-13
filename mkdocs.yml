@@ -1,0 +1,109 @@
+
+
+# Project information
+site_name: World vs Plastic - 
+site_description: Uniting the world towards the plastic circular economy. 
+site_author: World Vs Plastic
+site_url: https://worldvsplastic.github.io/learn/
+
+# Repository
+repo_name: /WorldvsPlastic/learn
+repo_url: https://github.com/WorldvsPlastic/learn
+edit_uri: ""
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2019 Martin Donath'
+
+# Configuration
+theme:
+  logo: "assets/images/wvp.png"
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.png
+
+
+# Customization
+extra:
+  social:
+    - type: globe
+      link: http://struct.cc
+    - type: github-alt
+      link: https://github.com/worldvsplastic
+    - type: twitter
+      link: https://twitter.com/worldvsplastic
+    - type: linkedin
+      link: https://linkedin.com/in/worldvsplastic
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - Material: index.md
+  - Getting started: getting-started.md
+  - Extensions:
+    - Admonition: extensions/admonition.md
+    - CodeHilite: extensions/codehilite.md
+    - Footnotes: extensions/footnotes.md
+    - Metadata: extensions/metadata.md
+    - Permalinks: extensions/permalinks.md
+    - PyMdown: extensions/pymdown.md
+  - Specimen: specimen.md
+  - Customization: customization.md
+  - Compliance with GDPR: compliance.md
+  - Release notes: release-notes.md
+  - Author's notes: authors-notes.md
+  - Contributing: contributing.md
+  - License: license.md
+
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
