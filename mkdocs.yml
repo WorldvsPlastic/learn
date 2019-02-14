@@ -86,8 +86,10 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Plastic 101: index.md
-  - Getting started: getting-started.md
+  - Home: index.md
+  - Plastic 101: 
+    - Compliance with GDPR: plastic_101/compliance.md
+    - Getting started: plastic_101/getting-started.md
   - Plastic Today:
     - Admonition: plastic_today/admonition.md
     - CodeHilite: plastic_today/codehilite.md
