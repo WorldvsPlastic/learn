@@ -104,13 +104,11 @@ nav:
     - Metadata: plastic_solution/metadata.md
     - Permalinks: plastic_solution/permalinks.md
     - PyMdown: plastic_solution/pymdown.md
-  - Specimen: specimen.md
-  - Customization: customization.md
-  - Compliance with GDPR: compliance.md
-  - Release notes: release-notes.md
-  - Author's notes: authors-notes.md
+  - Get started: customization.md
+  - Join The Movement: specimen.md
+  - How you can help?: compliance.md
   - Contributing: contributing.md
-  - License: license.md
+  - Citations: license.md
 
 # Google Analytics
 google_analytics:
