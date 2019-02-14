@@ -75,8 +75,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: worldvsplastic
+      repo: learn
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
@@ -86,15 +86,22 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Material: index.md
+  - Plastic 101: index.md
   - Getting started: getting-started.md
-  - Extensions:
-    - Admonition: extensions/admonition.md
-    - CodeHilite: extensions/codehilite.md
-    - Footnotes: extensions/footnotes.md
-    - Metadata: extensions/metadata.md
-    - Permalinks: extensions/permalinks.md
-    - PyMdown: extensions/pymdown.md
+  - Plastic Today:
+    - Admonition: plastic_today/admonition.md
+    - CodeHilite: plastic_today/codehilite.md
+    - Footnotes: plastic_today/footnotes.md
+    - Metadata: plastic_today/metadata.md
+    - Permalinks: plastic_today/permalinks.md
+    - PyMdown: plastic_today/pymdown.md
+  - Plastic Solution:
+    - Admonition: plastic_solution/admonition.md
+    - CodeHilite: plastic_solution/codehilite.md
+    - Footnotes: plastic_solution/footnotes.md
+    - Metadata: plastic_solution/metadata.md
+    - Permalinks: plastic_solution/permalinks.md
+    - PyMdown: plastic_solution/pymdown.md
   - Specimen: specimen.md
   - Customization: customization.md
   - Compliance with GDPR: compliance.md
