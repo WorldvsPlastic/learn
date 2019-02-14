@@ -1,4 +1,4 @@
-# Admonition
+# System pain points
 
 [Admonition][1] is an extension included in the standard Markdown library that
 makes it possible to add block-styled side content to your documentation, for

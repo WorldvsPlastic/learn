@@ -1,4 +1,4 @@
-# CodeHilite
+# china-and-the-ban.md
 
 [CodeHilite][1] is an extension that adds syntax highlighting to code blocks
 and is included in the standard Markdown library. The highlighting process is

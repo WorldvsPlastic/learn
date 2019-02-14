@@ -12,7 +12,7 @@ repo_url: https://github.com/WorldvsPlastic/learn
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2019 Martin Donath'
+copyright: 'Copyright &copy; 2016 - 2019'
 
 # Configuration
 theme:
@@ -88,23 +88,28 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Plastic 101: 
-    - Compliance with GDPR: plastic_101/compliance.md
-    - Getting started: plastic_101/getting-started.md
+    - Intro: plastic_101/intro.md
+    - What is plastic? : plastic_101/what-is-plastic.md
+    - How plastic is made! : plastic_101/how-its-made.md
+    - Types of plastic: plastic_101/types-of-plastic.md
+    - Uses of plastic: plastic_101/uses-of-plastic.md
+    - Plastic production-HIST : plastic_101/plastic-production.md
+    - Plastic waste production-HIST : plastic_101/plastic-waste-production.md
+    - Our Plastic footprint: plastic_101/plastic-footprint.md
   - Plastic Today:
-    - Admonition: plastic_today/admonition.md
-    - CodeHilite: plastic_today/codehilite.md
-    - Footnotes: plastic_today/footnotes.md
-    - Metadata: plastic_today/metadata.md
-    - Permalinks: plastic_today/permalinks.md
-    - PyMdown: plastic_today/pymdown.md
+    - Plastic waste management: plastic_today/plastic-waste-management.md
+    - Plastic recycling: plastic_today/plastic-recycling.md
+    - China and the ban : plastic_today/china-and-the-ban.md
+    - Current plastic economy: plastic_today/current-plastic-economy.md
+    - System not keeping up: plastic_today/system-not-keeping-up.md
+    - System pain points: plastic_today/system-pain-points.md
   - Plastic Solution:
-    - Admonition: plastic_solution/admonition.md
-    - CodeHilite: plastic_solution/codehilite.md
-    - Footnotes: plastic_solution/footnotes.md
-    - Metadata: plastic_solution/metadata.md
-    - Permalinks: plastic_solution/permalinks.md
-    - PyMdown: plastic_solution/pymdown.md
-  - Get started: customization.md
+    - New plastic economy  : plastic_solution/new-plastic-economy.md
+    - Expert Recommendations : plastic_solution/expert-recommendations.md
+    - WVP Roadmap : plastic_solution/wvp-roadmap.md
+    - WVP Projects: plastic_solution/wvp-projects.md
+    - Solutions: plastic_solution/solutions.md
+  - Get started: getting_started.md
   - Join The Movement: specimen.md
   - How you can help?: compliance.md
   - Contributing: contributing.md
