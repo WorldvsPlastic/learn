@@ -2,77 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://worldvsplastic.github.io/learn/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/getting-started/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc>https://worldvsplastic.github.io/learn/plastic_101/compliance/</loc>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/extensions/admonition/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc>https://worldvsplastic.github.io/learn/plastic_101/getting-started/</loc>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/extensions/codehilite/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc>https://worldvsplastic.github.io/learn/plastic_today/admonition/</loc>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/extensions/footnotes/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc>https://worldvsplastic.github.io/learn/plastic_today/codehilite/</loc>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/extensions/metadata/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc>https://worldvsplastic.github.io/learn/plastic_today/footnotes/</loc>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/extensions/permalinks/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc>https://worldvsplastic.github.io/learn/plastic_today/metadata/</loc>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/extensions/pymdown/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc>https://worldvsplastic.github.io/learn/plastic_today/permalinks/</loc>
+     <lastmod>2019-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://worldvsplastic.github.io/learn/plastic_today/pymdown/</loc>
+     <lastmod>2019-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://worldvsplastic.github.io/learn/plastic_solution/admonition/</loc>
+     <lastmod>2019-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://worldvsplastic.github.io/learn/plastic_solution/codehilite/</loc>
+     <lastmod>2019-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://worldvsplastic.github.io/learn/plastic_solution/footnotes/</loc>
+     <lastmod>2019-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://worldvsplastic.github.io/learn/plastic_solution/metadata/</loc>
+     <lastmod>2019-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://worldvsplastic.github.io/learn/plastic_solution/permalinks/</loc>
+     <lastmod>2019-02-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://worldvsplastic.github.io/learn/plastic_solution/pymdown/</loc>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://worldvsplastic.github.io/learn/specimen/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://worldvsplastic.github.io/learn/customization/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://worldvsplastic.github.io/learn/compliance/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://worldvsplastic.github.io/learn/release-notes/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://worldvsplastic.github.io/learn/authors-notes/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://worldvsplastic.github.io/learn/contributing/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://worldvsplastic.github.io/learn/license/</loc>
-     <lastmod>2019-02-13</lastmod>
+     <lastmod>2019-02-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
