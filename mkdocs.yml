@@ -109,9 +109,9 @@ nav:
     - WVP Roadmap : plastic_solution/wvp-roadmap.md
     - WVP Projects: plastic_solution/wvp-projects.md
     - Solutions: plastic_solution/solutions.md
-  - Get started: getting_started.md
-  - Join The Movement: specimen.md
-  - How you can help?: compliance.md
+  - Get started: get_started.md
+  - Join The Movement: join.md
+  - How you can help?: roles.md
   - Contributing: contributing.md
   - Citations: license.md
 

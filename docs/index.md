@@ -1,3 +1,4 @@
+
 # Material <small>for MkDocs</small>
 
 ## Create beautiful project documentation
