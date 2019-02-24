@@ -114,7 +114,7 @@ nav:
   - How you can help?: roles.md
   - Contributing: contributing.md
   - Citations: license.md
-
+  
 # Google Analytics
 google_analytics:
   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
