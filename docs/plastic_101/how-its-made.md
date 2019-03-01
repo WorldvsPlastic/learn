@@ -97,42 +97,42 @@ Almost everything around you is made from plastic or contains traces of it.
 
 Below are some of the ways plastic resin pellets are changed into our every day products:
 
-* Extrusion
+### Extrusion
 
-    > * Pellets are heated and mechanically mixed in a long chamber, forced through a small opening and cooled with air or water. 
+> * Pellets are heated and mechanically mixed in a long chamber, forced through a small opening and cooled with air or water. 
 
-* Calendaring
+### Calendaring
 
-    > * Squashing melted plastic between heavy roller
-        * This process is used to make plastic sheets or films
+> * Squashing melted plastic between heavy roller
+    * This process is used to make plastic sheets or films
 
-* Injection molding
+### Injection molding
 
-    >* The resin pellets are heated and mechanically mixed in a chamber and then forced under high pressure into a cooled mold. 
-        *	This process is used for containers like butter and yogurt tubs. 
+>* The resin pellets are heated and mechanically mixed in a chamber and then forced under high pressure into a cooled mold. 
+    *	This process is used for containers like butter and yogurt tubs. 
 
-* Blow molding
+### Blow molding
 
-    > * This technique is used in conjunction with extrusion or injection molding.
-    * The resin goes into the chilled mold, and compressed air gets blown into the resin tube. 
-    * The air expands the resin against the walls of the mold. 
-        * This process is used to make plastic bottles.
+> * This technique is used in conjunction with extrusion or injection molding.
+* The resin goes into the chilled mold, and compressed air gets blown into the resin tube. 
+* The air expands the resin against the walls of the mold. 
+    * This process is used to make plastic bottles.
 
-* Rotational molding: 
+###Rotational molding: 
 
-    > * The resin pellets are heated and cooled in a mold that can be rotated in three dimensions. 
-    * The rotation evenly distributes the plastic along the walls of the mold. 
-        * This technique is used to make large, hollow plastic items 
-            * Toys, furniture, sporting 
+> * The resin pellets are heated and cooled in a mold that can be rotated in three dimensions. 
+* The rotation evenly distributes the plastic along the walls of the mold. 
+* This technique is used to make large, hollow plastic items 
+    * Toys, furniture, sporting 
 		equipment, septic tanks, garbage cans,  kayaks
 
-* Spinneret molding
+### Spinneret molding
 
-    > * The resin pellets are forced through a kind of microscopically small sieve, called a spinneret, to make thin fibers. 
-        * This technique is used to make things like toothbrushes or nylon stockings.
+> * The resin pellets are forced through a kind of microscopically small sieve, called a spinneret, to make thin fibers. 
+    * This process is used to make things like toothbrushes or nylon stockings.
 
 
-Learn more about the process here:
+Learn more about these process here:
 
 * https://science.howstuffworks.com/plastic.htm	
 * https://www.explainthatstuff.com/plastics.html

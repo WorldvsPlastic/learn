@@ -92,10 +92,12 @@ nav:
     - What is plastic? : plastic_101/what-is-plastic.md
     - How plastic is made! : plastic_101/how-its-made.md
     - Types of plastic: plastic_101/types-of-plastic.md
-    - Uses of plastic: plastic_101/uses-of-plastic.md
-    - Plastic production-HIST : plastic_101/plastic-production.md
-    - Plastic waste production-HIST : plastic_101/plastic-waste-production.md
-    - Our Plastic footprint: plastic_101/plastic-footprint.md
+    - Plastic recycling codes : plastic_101/plastic-recycling-codes.md
+    - Total plastic production : plastic_101/total-plastic-production.md
+    - Yearly plastic production : plastic_101/yearly-plastic-production.md
+    - Waste plastic production : plastic_101/waste-plastic-production.md
+    - Plastics footprint: plastic_101/plastics-footprint.md
+    - Plastic time line: plastic_101/plastic-time-line.md
   - Plastic Today:
     - Plastic waste management: plastic_today/plastic-waste-management.md
     - Plastic recycling: plastic_today/plastic-recycling.md
@@ -109,12 +111,11 @@ nav:
     - WVP Roadmap : plastic_solution/wvp-roadmap.md
     - WVP Projects: plastic_solution/wvp-projects.md
     - Solutions: plastic_solution/solutions.md
-  - Get started: get_started.md
   - Join The Movement: join.md
   - How you can help?: roles.md
   - Contributing: contributing.md
   - Citations: license.md
-  
+
 # Google Analytics
 google_analytics:
   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
