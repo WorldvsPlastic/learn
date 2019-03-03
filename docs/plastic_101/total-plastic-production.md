@@ -3,6 +3,10 @@
 Plastic was invented in the late 19th century, and has come a long way since being made from natural materials like rubber.  
 After the first fully synthetic plastic was made by Leo Baekeland in 1907, plastic research and production multiplied and it soon entered all kinds of industries in its diverse kinds and shapes; production took off around 1950.
 
+* Over the last ten years we have produced more plastic than during the whole of the last century.
+
+    > https://plasticoceans.org/the-facts/
+
 * As of 2015, we have created more than 9.1 billion tons of plastic to date. 
     * More than one ton of plastic for every person alive today.
     > 1 ton = 2,000 lbs 

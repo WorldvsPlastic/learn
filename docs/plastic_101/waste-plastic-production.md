@@ -4,11 +4,13 @@
 We have created lots of plastic.
 > 9.13 Billion tons = 18.26 TRILLION pounds (18,260,000,000,000 lbs ) 
 
- Only 31% of plastic remains in use in the items around us. 
- > about 69% has become waste.  
- 6.27 Billion tons = 6,270,000,000 tons  
+ Only 24% of plastic remains in use in the items around us. 
+ > about 76% has become waste.  
+ 6.93 Billion tons = 6,930,000,000 tons  
  of plastic has become waste.  
  Break down below. 
+ 
+ > Values from: http://advances.sciencemag.org/content/3/7/e1700782
 
 ## Plastic properties recap
 Plastic is created to be chemically inert.
@@ -113,7 +115,7 @@ Construction, on the other hand, has a mean lifetime of 35 years.
 > Values from: http://advances.sciencemag.org/content/3/7/e1700782
 
 
-## Plastic waste creation by industry chart 
+## Industry plastic waste chart 
 Values below represent plastic waste production by industry in the year 2015 
 
 |  Industry  | Plastic produced |
@@ -127,6 +129,7 @@ Values below represent plastic waste production by industry in the year 2015
 |  Building & Construction  |   14,300,000 tons|
 |  Industry machinery  |   1,100,000 tons| 
 
+Next we will explore the damage all this plastic is doing in Plastics Footprint.
 
 
 
