@@ -30,5 +30,10 @@ Plastic can be made and molded into an almost infinite variety of shapes and pro
 		- One eiffel tower = 7,300 tons
 	- 157 Great Walls of China
 		- GWC Weight = 58,095,000 tons
-		- GWC Length = 5,500 miles long 
+		- GWC Length = 13,170 miles long 
 			- The US is 2,800 miles wide.
+			- The Earth is 24,860 miles (40,008 km) around
+	- 31,350,000 blue whales 
+		- Blue whale is 200 tons 
+
+Image of whale: https://twistedsifter.files.wordpress.com/2012/04/blue-whale-vs-humans.jpg?w=800&h=299
