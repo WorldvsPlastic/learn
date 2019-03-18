@@ -1,4 +1,4 @@
-#plastic Waste Management
+#Plastic Waste Management
 
 ## Plastic creation and fate recap
 
@@ -58,15 +58,48 @@ Overall, 69% of plastic created has become waste!
 			- The Earth is 24,860 miles (40,008 km) around
         - GWC height is an average of 30 ft 
         - GWC width is an average of 14 ft 
-	- 250,800,000 coach busses full of people 
-        - A loaded coach bus weighs an average of 60,000 lbs.
-        - There are 276 million cars on US roads today. 
+	- **209,000,000 coach busses full of people** 
+        - A loaded coach bus weighs an average of 60,000 lbs : 30 tons. 
+        - **There are 276 million vehicles on US roads today.** 
         > FIND THE WEBSITE SOURCE 
     - 31,350,000 blue whales 
 		- Blue whale is 200 tons 
         - The IUCN estimates that there are probably between 10,000 and 25,000 blue whales worldwide today
 
+## Solutions to the plastic waste epidemic
 
+Reducing, Reusing, and Recycling plastic are the fundamentals to prevent the ecological disaster that is upon us. 
+Luckily, innovations like the following are heplping implement those fundamentals in creative and effective ways. 
+Below is a list some great projects we are researching and connecting with in order to help create a synergistic effect by combining efforts. 
+
+### DIY (Do it yourself)
+* Eco bricks
+* Precious plastics 
+### Industrial solutions
+* Plastic Asphalt  
+* By-Fusion  bricks
+* Conceptos Plasticos - Colombia 
+* Diesel fuel
+### Community driven
+* 4 ocean   
+* Plastic bank 
+* Ecolones - Puerto Rico
+### Technology driven
+* Ocean clean up 
+* Plastic Shift 
+### Nature driven 
+* Bio plastics 
+* Worms eating plastic 
+
+> Help grow our network of plastic solutions!
+Get in touch with us so we can feature them and connect.
+
+ #WVPunited   
+ https://www.instagram.com/worldvsplastic/  
+ https://www.facebook.com/WorldvsPlastic/  
+ https://twitter.com/worldvsplastic/  
+
+More about solutions in: Plastic Solutions LINK. 
 
 
 

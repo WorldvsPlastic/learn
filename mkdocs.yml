@@ -101,16 +101,20 @@ nav:
   - Plastic Today:
     - Plastic waste management: plastic_today/plastic-waste-management.md
     - Plastic recycling: plastic_today/plastic-recycling.md
-    - China and the ban : plastic_today/china-and-the-ban.md
     - Current plastic economy: plastic_today/current-plastic-economy.md
+    - China and the ban : plastic_today/china-and-the-ban.md
     - System not keeping up: plastic_today/system-not-keeping-up.md
-    - System pain points: plastic_today/system-pain-points.md
+    - Forecast to the Future: plastic_today/forecast-to-the-future.md
+    - A new system: plastic_today/a-new-system.md
   - Plastic Solution:
-    - New plastic economy  : plastic_solution/new-plastic-economy.md
+    - The new plastic economy  : plastic_solution/the-new-plastic-economy.md
     - Expert Recommendations : plastic_solution/expert-recommendations.md
+    - WVP Solution : plastic_solution/wvp-solution.md
     - WVP Roadmap : plastic_solution/wvp-roadmap.md
-    - WVP Projects: plastic_solution/wvp-projects.md
-    - Solutions: plastic_solution/solutions.md
+    - WVP Platform: plastic_solution/wvp-platform.md
+    - WVP Industry Components: plastic_solution/wvp-industry-components.md
+    - WVP Community Components: plastic_solution/wvp-community-components.md
+    - More Solutions: plastic_solution/more-solutions.md
   - Join The Movement: join.md
   - How you can help?: roles.md
   - Contributing: contributing.md

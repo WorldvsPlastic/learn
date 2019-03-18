@@ -1,84 +1,30 @@
 # System not keeping up
 
-[Footnotes][1] is another extension included in the standard Markdown library.
-As the name says, it adds the ability to add footnotes to your documentation.
+Restrictions in China on the import of scrap plastic, along with lower energy and virgin resin prices, pose challenges for plastic recycling, in particular for those in the industry selling scrap plastic or covering the cost of collection, sorting and processing material to create marketable post-consumer resin (PCR).
 
-  [1]: https://python-markdown.github.io/extensions/footnotes/
+New technologies are unlocking new opportunities, while the building up of after-use infrastructure in developing countries has made this a critical crossroads moment for getting systems right the first time. 
 
-## Installation
+Achieving a specific quality of recycled plastic requires the correct set of procedures along the entire value chain: waste management companies need to collect clean fractions, sorters need to isolate specific polymers and to a desired cleanliness, compounders and plastics producers have to blend and create plastics with exactly the correct technical specifications to meet the needs of a particular manufacturing process and final product. 
 
-Add the following lines to your `mkdocs.yml`:
+An example mentioned by more plastic producers is that, in their experience, recyclers don’t know what polymers the producers would be willing to buy, and therefore plastic is shredded and low quality granulate is produced.   
+This can only be sold at a very low price, whereas a more comprehensive sorting could lead to more differentiated products that the plastic producers would be interested in buying.
 
-``` yaml
-markdown_extensions:
-  - footnotes
-```
+Similarly, design for recycling – avoiding complex composites, mixes or additives, and making products that can be easily dismantled – is futile if consumers, the waste management system and plastic sorter are not in a position to capitalize on it.
 
-## Usage
+When crude oil prices were low in 2015-16, the recycling industry struggled to compete with raw material production due to the inefficiency of the plastic economy and the resulting elevated prices to use recycled PCR.  
+  
+A 2016 report by the World Economic Forum, the Ellen MacArthur Foundation, and McKinsey & Company, estimated that around 14 percent of plastic packaging globally is collected for recycling, however the costs of sorting and reprocessing mean that only 5 percent of material value is retained for use as further materials.24
 
-The markup for footnotes is similar to the standard Markdown markup for links.
-A reference is inserted in the text, which can then be defined at any point in
-the document.
+> 95% of plastic packaging material value or $80–120 billion annually is lost to the economy after a short first use.
 
-### Inserting the reference
+A large share of plastic waste from households across the Nordic countries still ends up mixed together with residual waste and is incinerated, while the plastic that is collected separately from residual waste often is difficult to use for the manufacture of high quality plastics.
 
-The footnote reference is enclosed in square brackets and starts with a caret,
-followed by an arbitrary label which may contain numeric identifiers [1, 2, 3,
-...] or names [Granovetter et al. 1998]. The rendered references are always
-consecutive superscripted numbers.
 
-Example:
 
-``` markdown
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
-```
+## Pain points 
+There are a variety of barriers that hinder the market for recycling plastics – some technical, some legislative and some logistical.
 
-Result:
+1. The development and introduction of new plastic materials and formats across global supply and distribution chains is happening far faster than and is largely disconnected from the development and deployment of corresponding after-use systems and infrastructure. 
+2. Current innovation and improvement efforts fail to have impact at scale Many innovation and improvement efforts show potential, but to date these have proven to be too fragmented and uncoordinated to have impact at scale. 
+3. Today’s plastics economy is highly fragmented. The lack of standards and coordination across the value chain has allowed the proliferation of materials, formats, labelling, collection schemes, and sorting and reprocessing systems, which collectively hamper the development of effective markets. 
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
-
-### Inserting the content
-
-The footnote content is also declared with a label, which must match the label
-used for the footnote reference. It can be inserted at an arbitrary position in
-the document and is always rendered at the bottom of the page. Furthermore, a
-backlink is automatically added to the footnote reference.
-
-#### on a single line
-
-Short statements can be written on the same line.
-
-Example:
-
-``` markdown
-[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-```
-
-Result:
-
-<a href="#fn:1">Jump to footnote at the bottom of the page</a>
-
-  [^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-#### on multiple lines
-
-Paragraphs should be written on the next line. As with all Markdown blocks, the
-content must be indented by four spaces.
-
-Example:
-
-``` markdown
-[^2]:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-```
-
-Result:
-
-  [^2]:
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-      nulla. Curabitur feugiat, tortor non consequat finibus, justo purus
-      auctor massa, nec semper lorem quam in massa.
-
-<a href="#fn:2">Jump to footnote at the bottom of the page</a>
