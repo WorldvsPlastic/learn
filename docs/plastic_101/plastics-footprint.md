@@ -3,7 +3,7 @@
 Lets make sense of the figures we've explored so far by seeing what all this plastic is doing to the environment, animals, resources, and us.
 
 ## Environment vs Plastic
-### Land
+### Land vs Plastic
 * There are over 5.47 billion tons of plastic waste discarded in landfills and the environment.  
 > 2015 values from http://advances.sciencemag.org/content/3/7/e1700782
 
@@ -12,7 +12,7 @@ Lets make sense of the figures we've explored so far by seeing what all this pla
 
 * Land-based sources contribute to 80 percent of ocean plastics.
 
-### Water
+### Water vs Plastic
 * Plastic debris has been found in all major ocean basins
 * 8.8  million tons of plastic ends up in the world's oceans annually
     * Enough plastic waste to cover every foot of coastline around the world with five full trash bags of plastic.
@@ -45,7 +45,7 @@ https://www.news.ucsb.edu/2015/014985/ocean-plastic
 
     > http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111913
 
-### Air
+### Air vs Plastic 
 * Greenhouse gas emissions result from production and after-use incineration.
     * The carbon footprint of plastic (LDPE or PET, poyethylene) is about 6 lbs Co2 per 1 lb of plastic 
 * 2.5 Million tons of CO2 is produced yearly by water bottle manufacturing alone.
@@ -65,6 +65,9 @@ https://www.news.ucsb.edu/2015/014985/ocean-plastic
         * Collisions
         * Obstructions
         * Abrasions
+
+> * https://www.nationalgeographic.com/environment/2019/03/whale-dies-88-pounds-plastic-philippines/
+> * https://www.nationalgeographic.com/environment/2019/02/deep-sea-creatures-mariana-trench-eat-plastic/
 
 * The likelihood of coral becoming diseased increases from 4% to 89% after coming in contact with marine plastic.
 

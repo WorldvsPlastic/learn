@@ -99,7 +99,7 @@ Get in touch with us so we can feature them and connect.
  https://www.facebook.com/WorldvsPlastic/  
  https://twitter.com/worldvsplastic/  
 
-More about solutions in: Plastic Solutions LINK. 
+More about these and more solutions in: Plastic Solutions LINK. 
 
 
 

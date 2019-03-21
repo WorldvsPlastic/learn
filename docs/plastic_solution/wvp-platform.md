@@ -7,11 +7,11 @@ Technology, Data, and community will fuel  applications robust with modern platf
 
 | **Industry Components** | **Community Components**|
 | :------------------: |:--------------------:| 
-|Post Consumer Resin Market Place|At home recycling component| 
-| Local Recycling center web app | Volunteer component |
+|Plastic Shift Exchange|Individual Hero| 
+|LRC web app (Local Recycling center) | Volunteer component |
 | Plastic Labs (solution innovations)|  Consumer component |
 
-**World Vs Plastic Data Dashboard** will track plastic moving through the system.
+**World Vs Plastic Data Dashboard** will track plastic moving through the system, engaging users by gamefiying the experience.
 
 ### The WVP industry components will: 
 
