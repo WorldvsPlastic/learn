@@ -9,7 +9,7 @@ Technology, Data, and community will fuel  applications robust with modern platf
 | :------------------: |:--------------------:| 
 |Plastic Shift Exchange|Individual Hero| 
 |LRC web app (Local Recycling center) | Volunteer component |
-| Plastic Labs (solution innovations)|  Consumer component |
+| Plastic Labs (solutions hub)|  Conscious Consumer  |
 
 **World Vs Plastic Data Dashboard** will track plastic moving through the system, engaging users by gamefiying the experience.
 
@@ -27,7 +27,7 @@ Technology, Data, and community will fuel  applications robust with modern platf
 - Facilitate recycling locally 
 - Create & promote volunteer clean up events 
 - Increase consumer demand for recycled plastics
-- Encourage action within communities and enterprise 
+- Encourage action within communities, enterprise, and government 
 
 ### World Vs Plastic Data Dashboard
 

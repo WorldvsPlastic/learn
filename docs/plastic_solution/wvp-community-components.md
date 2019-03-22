@@ -1,9 +1,11 @@
 # WVP Community Components 
 
 ## At home recycling component 
-Recycling awareness and guide tool -   
-"It all stats at home, with you."
-1. Information about types of plastic, 1-7, and example products for each.
+Recycling awareness and guide tool     
+"It all stats at home, with you."  
+
+1. Information about types of plastic, 1-7
+    * example products for each.
 2. Instructions on how to best recylce at home
 	* How to best prepare and sort it 
     * Where to take each type of waste
@@ -12,7 +14,9 @@ Recycling awareness and guide tool -
 	* Address to local recycling plant  (Phase 1)
   * Coordinate pick up from volunteer transporters. (Phase 2)
 5. Pick up litter, report, and get points.
-    * Pick up trash you find on your daiy commute, pick it up, and report it with a click for points. 
+    * Pick up trash you find around you and on your daiy commute, pick it up, and report it with a click for points. 
+    * Share on social networks  
+    * Lead by example and influence your network to stand for the environment. 
 
 ---
 

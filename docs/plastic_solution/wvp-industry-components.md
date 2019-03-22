@@ -22,7 +22,7 @@ The LRC web app will register and map local recycling facilities through a commu
 
 ## Plastic Labs - Innovation component  
 
-PlasticLabs is the solution centric hub to build syergy and a network for EVERY plastic recycling project out there.  A compilation of methods for home and large scale enterprise and community use, upcycling innovations, and bleeding edge technologies that propose possible future solutions. 
+PlasticLabs is the solution centric hub to build syergy and a network for EVERY plastic recycling project out there.  A compilation of methods for home, large scale enterprise, community use, upcycling innovations, and bleeding edge technologies that propose possible future solutions. 
 
 PlaticLabs educates and connects motivated users looking to create change and with solution focused individuals and groups to explore more ideas that will help save the world. 
 

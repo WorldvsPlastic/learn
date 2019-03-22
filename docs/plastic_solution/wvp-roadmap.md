@@ -1,19 +1,21 @@
 # World Vs Plastic Roadmap 
 
 ## Navigation Key:
-B- Business development  
-T- Technology  
-MM- Marketing movement  
-MpsX- Marketing Plastic Shift Exchange  
-MC- Marketing Community 
+
+**B- Business development**    
+**T- Technology**  
+**MM- Marketing Movement** 
+**MC- Marketing Community**  
+**MpsX- Marketing Plastic Shift Exchange**    
+ 
 
 ## 2018 - ideation 
 inception/feasibility study
 
 We began to notice a trend in plastic waste incidents like this (link to video of turtle with straw in nose) so we began to research plastic. We continued with Plastic waste, plastic recycling, and it all came to a head with the discovery of Chinas plastic waste import ban. Click here to see key data (link to learn) 
 
-* Research plastic ecosystem, plastic waste, plastic recycling
-* Discover various plastic supply chains and their process 
+> * Research plastic ecosystem, plastic waste, plastic recycling
+> * Discover various plastic supply chains and their process 
 * Research and Connect with plastic recycling communities 
 * Discover the main pain points in the plastic recycling industry
 * Discover the major hinderances in community recycling efforts
@@ -24,7 +26,7 @@ business dev / software design
 
 After becoming fully aware and educated on the global plastic waste situation, our experience with platform businesses and community optimization presented the opportunity to upgrade the plastic ecosystem. With software, we plan to improve the process, facilitate trade, build demand for recycled plastic through community, and therefore increase recycling levels and decrease the creation of virgin plastic.
 
-* B - Connect with players in the PCR industry
+> * B - Connect with players in the PCR industry
 * T- Design components of the WVP platform 
 * T - Design and validate initial features for the Recycled plastic marketplace
 * T - Validate design and functionality with plastic recycling industry leaders
@@ -40,7 +42,7 @@ The movement begins/PCR-MP MVP / adoption / crowd source/ growth
 We started the year focused on developing our business plan,roadmap, and our goals.
 We go public with our Moonshot initiative to increase recycling exponentially! 9% currently to 90% by 2050. Our focus in 2019 is to get technology ready for engagement and feedback. Forward facing website WVP will raise awareness for the topic of Plastic waste by spreading knowledge, the solutions and goal we have mapped out, and a call to action for community to support the process. The Plastic Shift project comes alive as the technology-centric counterpart to WVP builds the future of the Post Consumer Resin network, market, exchange, and logistics line. Our community marketing plan is implemented and is the reason you find your self reading this ;) Thanks for the support!
 	
-* T - World vs Plastic - Website v 1.0 2018 q1
+> * T - World vs Plastic - Website v 1.0 2018 q1
 * MM - Movement awareness phase begins q1
 * MM - Enter plastic digital community q1
 * T - Plastic shift exchange functionality and feature validation 2019 q1
@@ -75,7 +77,7 @@ Phase 1 of our technology solution, the Plastic Shift Exchange, is now live and 
 The plastic shit exchange spreads in the US via our crowd sourced program to engage community members in helping local recycling centers connect. 
 	Plastic shift now begins to expand internationally. 
 
-* T - Community application launch - q1
+> * T - Community application launch - q1
 * M -Kick off direct marketing community engagement for users q1
 * MC- WVP movement Ambassador program growth  
 * Evangelists recruitment start 
@@ -104,7 +106,7 @@ The PS exchange is being used by recycling centers across the US and internation
 
 The community application continues adoption efforts as crowd sourced volunteering events multiply. We begin the pilot for our community sourced recycling program starting with plastic bags (read more here) 
 
-* T - Data dashboard q1 2021
+> * T - Data dashboard q1 2021
 * MC - Community organized and sourced recycle volunteer efforts grow and marketed (Beach clean ups, etc) q2
 * B - Token sale q2
 * MC - inter community and crowd sourced recycling program growth and marketing (plastic bag pilot) q3
@@ -120,7 +122,7 @@ Now that all 3 components are running and growing, we begin to upgrade systems a
 
 Our goal now is to present programs to civic endeavors and help cities with their recycling programs and directives.
 
-* MC - Crowd source bag recycling pilot proves model q2
+> * MC - Crowd source bag recycling pilot proves model q2
 * T - PS.Exchange logistics upgrade q3
 * B - Civic waste management Initiative 
 * B - Plastic management CRM 
@@ -129,7 +131,7 @@ Our goal now is to present programs to civic endeavors and help cities with thei
 
 With proven success locally and abroad, our system is spread by creating autonomous nodes in the places where plastic waste needs the most attention. (currently south east Asia, read more here) WVP funds and helps establish recycling centers in small towns. Coupled with our crowd sourcing programs that collect waste from the environment by incentivizing locals financially, the WVP program begins to help the environment while empowering communities of people.  
 
-* T - Exchange growth: Network, features, - 2023 
+> * T - Exchange growth: Network, features, - 2023 
 * MM - Crowd sourced recycling internationally  2023
 	* Create collection, separation centers Q1
 * B - International recycling centers biz dev pilot- 2023 Q2

@@ -2,11 +2,12 @@
 
 Now, harnessing this capability to improve the reuse of plastic materials – while continuing to expand its functionality and reduce its cost – could create a new engine to move towards a system that works: a New Plastics Economy.
 
-The overarching vision of the New Plastics Economy is that plastics never become waste; rather, they re-enter the economy as valuable technical or biological resources.  
+> The overarching vision of the New Plastics Economy is that plastics never become waste; rather, they re-enter the economy as valuable technical or biological resources.  
 
-The New Plastics Economy is underpinned by and aligns with **circular economy principles**. It sets the ambition to deliver better system-wide economic and environmental outcomes by:
+The New Plastics Economy is underpinned by and aligns with **circular economy principles**. 
+It sets the ambition to deliver better system-wide economic and environmental outcomes by creating an effective after-use plastics economy that improves the economics and uptake of recycling and reuse through local communities, corporate manufacturers, and governmental entities.  
 
-1. Create an effective after-use plastics economy (the cornerstone and priority) by improving the economics and uptake of recycling, reuse and controlled biodegradation for targeted applications. This is the cornerstone of the New Plastics Economy and its first priority, and helps realize the two following ambitions. 
+This is the cornerstone of the New Plastics Economy and its first priority, to help realize the two following ambitions. 
 	
 2. Drastically reduce leakage of plastics into natural systems (in particular the ocean) and other negative externalities. 
 	
