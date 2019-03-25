@@ -86,7 +86,12 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: 
+    - Welcome : welcome.md
+    - Join The Movement: join.md
+    - How you can help?: roles.md
+    - Contributing: contributing.md
+    - Citations: license.md
   - Plastic 101: 
     - Intro: plastic_101/intro.md
     - What is plastic? : plastic_101/what-is-plastic.md
@@ -115,10 +120,7 @@ nav:
     - WVP Industry Components: plastic_solution/wvp-industry-components.md
     - WVP Community Components: plastic_solution/wvp-community-components.md
     - Existing Solutions: plastic_solution/existing-solutions.md
-  - Join The Movement: join.md
-  - How you can help?: roles.md
-  - Contributing: contributing.md
-  - Citations: license.md
+ 
 
 # Google Analytics
 google_analytics:
