@@ -40,7 +40,6 @@ Using values from https://ourworldindata.org/plastic-pollution, we have calculat
 * 09% of plastic has been incinerated 
 
 Overall, 69% of plastic created has become waste!  
-  
 ![alt text](https://ourworldindata.org/wp-content/uploads/2018/08/plastic-fate-768x698.png "Global plastic production and its fate 1950-2015")
 
 * A grand total of **6,270,000,000 tons** 

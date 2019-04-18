@@ -1,15 +1,28 @@
-# Welcome 
-    
-Welcome to the learn section.
+# Welcome to World Vs Plastic
 
-We have compiled studies on plastic and shared them here in an easy to follow story line aimed at helping you understand everything about plastic - from how its made, 
-to what its doing to the world, 
-to solutions active and in development.  
+We're happy you are here. The world needs you.
+
+## Our Why
+We are here to unite the world and save it from the plastic waste epidemic.
+
+## Learn
+
+* On the next page, WVP Goals, we explain the *why*, *how*, and *what* fueling World Vs Plastic. 
+
+* On the Join The Movement page, we explain how you can take action now to make start making a difference.
+
+In following sections, we have compiled information and studies on plastic in an easy to follow story line aimed at helping you understand everything about plastic -
+
+* How its made
+* What it's doing to the world
+* Solutions active and in development  
 	
-We are grateful for what ever brought you here because spreading knowledge is the first step towards real change. 
-Take some facts, leave some of your own facts (find out how to contribute below), and share with friends and family to raise awareness on the topic of plastic. 
+We are grateful for what ever brought you here.
+Sharing knowledge and raisning awareness is the first step towards real change - and this is what we stand for.
+
+Take some facts, find out how to get involved, connect with others, and most importantly, share with friends and family to raise awareness on the topic of plastic.
 	
-We're happy you are here, lets begin our delve into plastic and the future of our world. 
+Lets begin our delve into plastic and the future of our world. 
 	
 ## Outline: 
 
@@ -51,4 +64,5 @@ In **Plastic Today**, we compile facts about plastics current state in the world
 *  Existing Solutions
 		
 Values throughout the study are in metric and imperial units. 
+
 To help make sense of the values, numbers are compared to every day things to help readers imagine these figures in real life context. 

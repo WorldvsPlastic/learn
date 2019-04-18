@@ -87,11 +87,11 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: 
-    - Welcome : welcome.md
-    - Join The Movement: join.md
-    - How you can help?: roles.md
-    - Contributing: contributing.md
-    - Citations: license.md
+    - Welcome : home/welcome.md
+    - WVP Goals: home/goals.md
+    - Join The Movement: home/join.md
+    - Contributing: home/contributing.md
+    - Citations: home/license.md
   - Plastic 101: 
     - Intro: plastic_101/intro.md
     - What is plastic? : plastic_101/what-is-plastic.md
