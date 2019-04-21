@@ -2,7 +2,7 @@
 
 ## Why - aka our Purpose
 
-We are here to unite the world and save it from the plastic waste epidemic.
+To unite global efforts, empower soultions, and save the world from the plastic waste epidemic.
 
 ## Massive Transformative Purpose (MTP)
 > Like a mission statement, but HUGE!
@@ -30,28 +30,43 @@ By starting a global movement and designing, developing and spreading the techno
     * web and mobile apps
     * social media virality and influencers  
     * digital and physical community marketing
-* **Start a movement** to cause change among:
-    * the community
+* **Start a movement** to push change among:
+    * communities
     * consumers
     * policy makers
     * the plastic indsutry
 * **Build technology** that will
     * Create the software platform to promote the movement
+        * *WVP Community Components* 
     * Connect consumer, producer, and policy makers 
+        * Conscious consumer component
     * Provide the tools for the plastic industry to help make recycled plastic more cost effective.
-* **Unite communities, cities and the world** for:
+        * Plastic Shift Exchange 
+    * Build synergy between existing solutions to optimize recyling.
+        * Plastic Labs
+> Find out more in the **Plastic solution secion, wvp platform page**.
+
+* **Unite communities, cities, and the world** for:
     * Crowd funding endeavours
-        * Proactive community members working on solutions with crowd funding to help accomoplish thier goals and build their solutions. 
+        * Supporting Proactive community members working on solutions with crowd funding to help accomplish thier goals and empower their solutions. 
     * Clean ups
         * Web and mobile applications will provide infrastructure and tools for motivated community members to work together in their neighborhoods and abroad. 
-    * Solution promotion, sharing, and funding
-        * Areas with excess plastic waste will find out about and  connect to existing infrastructure and have a way to change plastic waste into income.
+    * Solution promotion, networking, and funding
+        * Areas with excess plastic waste will find out about and receive support to connect with  existing solution infrastructure. This will start the process of turning plastic waste into value.
     * Community sourced recycling programs 
-        * Users in areas with inadequate recyclign solutions will have a tool to connect with others interested in making a change and taking action to do it to create their own recycling infrastructure. 
-* **Build demand for recycled plastic** in order to decrease virgin plastic creation 
-    * Information about companies making plastic conscious descisions and products will be updated regularly
-    * A recycled plastic product marketplace will ease the purchasing process
+        * Users in areas with inadequate recycling solutions will have a tool to connect with others near by interested in making a change by taking action to create their own recycling infrastructure. 
+* **Build demand for recycled plastic** to: 
+    * Decrease virgin plastic creation 
+    * Infor consumers about companies making plastic conscious descisions and products 
+    * Support a recycled plastic product marketplace to facilitate and ecourage the purchasing process of recylced goods. 
+* **Create recyling infrastructure world wide**
+    * Once the WVP system is up and running, we will spread it to parts of the world where plastic waste is abundant and recycling infrastructure is scare. 
+    * Funding, development, and management will be shared with motivated locals to help build recycling infrastructure. 
 
-Find out how to help and get involved on the next page: Join the movement!
+## Find out more
+
+Check out our **RoadMap** in the **Plastic Solutions Section, WVP Roadmap page**
+
+Find out how to help and get involved on the next page: **Join the movement**!
 
 

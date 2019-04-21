@@ -1,8 +1,10 @@
 # WVP Community Components 
 
-## At home recycling component 
-Recycling awareness and guide tool     
+## At home recycling component
+Recycling guide, tool, and solution for you at home 
 "It all stats at home, with you."  
+
+###Functions
 
 1. Information about types of plastic, 1-7
     * example products for each.

@@ -7,9 +7,9 @@ Technology, Data, and community will fuel  applications robust with modern platf
 
 | **Industry Components** | **Community Components**|
 | :------------------: |:--------------------:| 
-|Plastic Shift Exchange|Individual Hero| 
+|Plastic Shift Exchange|At home recycling component| 
 |LRC web app (Local Recycling center) | Volunteer component |
-| Plastic Labs (solutions hub)|  Conscious Consumer  |
+| Plastic Labs (Solutions hub)|  Conscious Consumer  |
 
 **World Vs Plastic Data Dashboard** will track plastic moving through the system, engaging users by gamefiying the experience.
 
@@ -35,3 +35,4 @@ We will track, gamify, and evaluate metrics of the WVP Initiative by aggregating
 
 The WVP initiative recognizes that the innovations required for the transition to the New Plastics Economy are driven collaboratively across industry, consumers, cities, governments, non-profits and  NGOs; The best way to track our progress is by keeping it in the same place. 
 
+**Read more about each component in following sections!** 

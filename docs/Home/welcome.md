@@ -2,14 +2,16 @@
 
 We're happy you are here. The world needs you.
 
-## Our Why
-We are here to unite the world and save it from the plastic waste epidemic.
+## The WVP Why
+To unite global efforts, empower soultions, and save the world from the plastic waste epidemic.
 
-## Learn
+## Learn home section outline:
 
-* On the next page, WVP Goals, we explain the *why*, *how*, and *what* fueling World Vs Plastic. 
+* On the next page, **WVP Goals**, we explain the *why*, *how*, and *what* fueling World Vs Plastic. 
 
-* On the Join The Movement page, we explain how you can take action now to make start making a difference.
+* On the **Join The Movement** page, we explain how you can take action now to start making a difference.
+
+## WVP sections outlined: 
 
 In following sections, we have compiled information and studies on plastic in an easy to follow story line aimed at helping you understand everything about plastic -
 
@@ -23,8 +25,6 @@ Sharing knowledge and raisning awareness is the first step towards real change -
 Take some facts, find out how to get involved, connect with others, and most importantly, share with friends and family to raise awareness on the topic of plastic.
 	
 Lets begin our delve into plastic and the future of our world. 
-	
-## Outline: 
 
 ### Plastic 101
 We begin with general knowledge in **PLASTIC 101** - What it is, how its made, how much exists - Spoiler alert, A LOT! - and what all this plastic is doing to the world. 

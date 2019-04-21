@@ -4,7 +4,7 @@
 
 **B- Business development**    
 **T- Technology**  
-**MM- Marketing Movement** 
+**MM- Marketing Movement**   
 **MC- Marketing Community**  
 **MpsX- Marketing Plastic Shift Exchange**    
  
