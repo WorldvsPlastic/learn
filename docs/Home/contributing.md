@@ -73,6 +73,7 @@ Contribute your skills to the WVP initiative.
 ## Contact us to get involved
 
 Every action from every world citizen creates a synergistc effect in solving the plastic waste crisis. 
+
 * Email us: WorldVsPlastic@gmail.com
 * Message us via socials: @WorldVsPlastic
 * Join our Discord channel: https://discord.gg/33hy5ch
