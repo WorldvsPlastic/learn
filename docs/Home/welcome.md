@@ -2,7 +2,7 @@
 
 We're happy you are here. The world needs you.
 
-## The WVP Why
+## Why World Vs Plastic
 To unite global efforts, empower soultions, and save the world from the plastic waste epidemic.
 
 ## Learn home section outline:

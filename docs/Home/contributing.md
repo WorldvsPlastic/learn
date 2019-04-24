@@ -54,12 +54,15 @@ Contribute your skills to the WVP initiative.
         * Social media 
         * Blogs 
         * Events 
+    * Send us links so we can share your posts on our pages.
 2. Ambassadors
-    * Share WVP content
-    * Recruiting friends to join the movement 
+    * Share the WVP message and content
+    * Recruite friends to join the movement 
       * Tag friends in posts
       * Invite them to join on socials
-    * Tagging #WVPmovement on all plastic related content 
+    * Tag #WVPmovement on all plastic related content 
+    * Official WVP Ambassador program 
+      * Badges, ranks, and positions earned for activity as you help save the world! 
 3. Community project awareness campaigns
     * Help share the projects of motivated community memebrs to inspire others
     * Crowd sourced fund raisers to support motivated and active community members projects 
